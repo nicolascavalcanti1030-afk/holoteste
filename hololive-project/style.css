@@ -1,0 +1,233 @@
+style.css
+    #hololive {
+        width : 200px;
+    }
+    .g3 {
+        width: 120px;
+        height: 115px;
+        position: absolute;
+        top: 0px;
+        left: 0px;
+       
+    }
+    .g0 {
+        width: 175px;
+        height: 138px;
+        position: absolute;
+        top: 700px;
+        left: 450px;
+       
+    }
+    .nepolabo {
+        width: 141px;
+        height: 115px;
+        position: absolute;
+        top: 1050px;
+        left: 0px;
+        
+    
+    }
+    .reglo {
+        width: 150px;
+        height: 137px;
+        position: absolute;
+        top: 0px;
+        left: 0px;
+       
+    }
+    .games {
+        width: 150px;
+        height: 117px;
+        position: absolute;
+        top: 0px;
+        left: 0px;
+       
+       
+    }
+    .Glow {
+       width: 150px;
+       height: 130px;
+       position: absolute;
+       top: 0px;
+       left: 0px;
+       
+    }
+    .hox {
+        width: 150px;
+        height: 117px;
+        position: absolute;
+        top: 0px;
+        left: 0px;
+       
+        
+    }
+    .g1 {
+        width: 150px;
+        height: 115px;
+        position: absolute;
+        top:0px;
+        left: 0px;
+       
+    }
+    .g2 {
+        width: 150px;
+        height: 110px;
+        position: absolute;
+        top: 0px;
+        left: 0px;
+        
+    }
+    .g4 {
+        width: 150px;
+        height: 116px;
+        position: absolute;
+        top: 0px;
+        left: 0px;
+       
+    }
+    .membro {
+        position: relative;
+        display: inline-block;
+        margin: 10px;
+        padding: 5px;
+       
+    }
+    .membro img {
+        display: none;
+        width: 150px;
+        position: absolute;
+        top: 20px;
+        left: 100%;
+        border: 2px solid #fff;
+        border-radius: 5px;
+        background-color: rgba(0, 0, 0, 0.8);
+        z-index: 10;
+    }
+    .membro:hover img {
+        display: block;
+    }
+    .gen {
+        position: relative;
+        display: inline-block;
+        margin: 10px;
+        padding: 5px;
+    }
+    .gen img {
+        display: none;
+        width: 250px;
+        position: absolute;
+        top: 20px;
+        left: 100%;
+        border: 2px solid #fff;
+        border-radius: 5px;
+        background-color: rgba(0, 0, 0, 0.8);
+        z-index: 10;
+    }
+    .gen:hover img {
+        display: block;
+    }
+    body {
+        background-color: #3052a7;
+        font-family: Arial, sans-serif;
+        color: #e3dbdb;
+    }
+    h1 {
+        color: #ff4500;
+    }
+    h2 {
+        color: #f1e219f9;
+        height: 48px;
+        border: 5px groove #02c0ff;
+        padding: 10px;
+        border-radius: 10px;
+        border-bottom: 5px ;
+        background-color: #08044d42;
+    }
+    ul {
+        list-style-type: none;
+        padding: 0;
+    }
+    li {
+        margin: 5px 0;
+    }
+    a {
+        color: #ee00ff;
+        text-decoration: none;
+    }
+    a:hover {
+        text-decoration: underline;
+    }
+    #Gen0 ul {
+        background-color: #c37f21;
+        padding: 10px;
+        border-radius: 10px; 
+        box-shadow: 0 0 10px rgba(182, 11, 11, 0.5);
+        max-width: 1200px;
+
+    }
+    #Gen1 ul {
+        background-color: #439818;
+        padding: 10px;
+        border-radius: 5px;
+        box-shadow: 0 0 10px rgba(182, 11, 11, 0.5);
+        max-width: 1200px;
+    }
+    #Gen2 ul {
+        background-color: #1a8f8f;
+        padding: 10px;
+        border-radius: 5px;
+        box-shadow: 0 0 10px rgba(182, 11, 11, 0.5);
+        max-width: 1200px;
+    }
+    #Gen3 ul {
+        background-color: #8f1a1a;
+        padding: 10px;
+        border-radius: 5px;
+        box-shadow: 0 0 10px rgba(182, 11, 11, 0.5);
+        max-width: 1200px;
+    }
+    #gamers ul {
+        background-color: #1a1a8f;
+        padding: 10px;
+        border-radius: 5px;
+        box-shadow: 0 0 10px rgba(182, 11, 11, 0.5);
+        max-width: 1200px;
+    }
+    #Gen4 ul {
+        background-color: #8f1a8f;
+        padding: 10px;
+        border-radius: 5px;
+        box-shadow: 0 0 10px rgba(182, 11, 11, 0.5);
+        max-width: 1200px;
+    }
+    #Gen5 ul {
+        background-color: #898930;
+        padding: 10px;
+        border-radius: 5px;
+        box-shadow: 0 0 10px rgba(182, 11, 11, 0.5);
+        max-width: 1200px;
+    }
+    #holoX ul {
+        background-color: #1a8f1a;
+        padding: 10px;
+        border-radius: 5px;
+        box-shadow: 0 0 10px rgba(182, 11, 11, 0.5);
+        max-width: 1200px;
+    }
+    #flow-glow ul {
+        background-color: #9fa59f;
+        padding: 10px;
+        border-radius: 5px;
+        box-shadow: 0 0 10px rgba(182, 11, 11, 0.5);
+        max-width: 1200px;
+    }
+    #regloss ul {
+        background-color: #2a0422;
+        padding: 10px;
+        border-radius: 5px;
+        box-shadow: 0 0 10px rgba(182, 11, 11, 0.5);
+        max-width: 1200px;
+    }
+    
+
+    
